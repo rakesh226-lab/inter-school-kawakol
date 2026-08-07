@@ -1,0 +1,4 @@
+service : {
+  getVisitorCount: () -> (nat) query;
+  trackVisit: () -> (nat);
+}
